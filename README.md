@@ -7,9 +7,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ksp399&label=Profile%20views&color=0e75b6&style=flat" alt="ksp399" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ksp399" alt="ksp399" /></a> </p>
 
-- 🌱 I’m currently learning **SpringBoot Framework**
+- 🌱 Currently learning **SpringBoot Framework**
 
 - 👯 I’m looking to collaborate on **Java/SpringBoot based Projects.**
 
