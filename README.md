@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **kushagragupta399@gmail.com**
 
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1a1YEaMfrB2TCxtLPd3157ujbwo_q6YZ5/view?usp=drivesdk)
+- 📄 Know about my experiences [Click here to open my RESUME](https://drive.google.com/file/d/1a1YEaMfrB2TCxtLPd3157ujbwo_q6YZ5/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
