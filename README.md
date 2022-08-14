@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://ksp399.io)
+[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQGioCOeXTWF0w/profile-displaybackgroundimage-shrink_350_1400/0/1625749410844?e=1666224000&v=beta&t=v98DMFdbYgMQF5uClfMSEsZXOSt42xVIulARLxy08ac)](https://ksp399.io)
 <h1 align="center">Hi 👋, I'm KUSHAGRA GUPTA</h1>
 <h3 align="center">Software Engineer</h3>
 
