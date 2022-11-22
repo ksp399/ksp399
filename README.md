@@ -1,4 +1,4 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQGioCOeXTWF0w/profile-displaybackgroundimage-shrink_350_1400/0/1625749410844?e=1666224000&v=beta&t=v98DMFdbYgMQF5uClfMSEsZXOSt42xVIulARLxy08ac)](https://ksp399.io)
+[![MasterHead](https://github.com/txaty/txaty/blob/main/assets/background.jpeg)](https://ksp399.io)
 <h1 align="center">Hi 👋, I'm KUSHAGRA GUPTA</h1>
 <h3 align="center">SOFTWARE ENGINEER</h3>
 
