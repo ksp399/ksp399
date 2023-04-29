@@ -12,9 +12,9 @@
 
 - 👯 I’m looking to collaborate on **Java/SpringBoot based Projects.**
 
-- 📫 How to reach me **kushagragupta399@gmail.com**
+- 📫 Reach out to me at **kushagragupta399@gmail.com**
 
-- 📄 Know about my experiences [Click here to open my RESUME](https://flowcv.com/invite/7qb7lhssg9)
+- 📄 Know about my experiences: [Click here to open my RESUME](https://flowcv.com/invite/7qb7lhssg9)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
