@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/txaty/txaty/blob/main/assets/background.jpeg)](https://ksp399.io)
+[![MasterHead](https://img.freepik.com/free-photo/man-using-laptop-night-top-view-web-banner-with-copy-space_169016-53607.jpg?t=st=1740225806~exp=1740229406~hmac=93e7a19fcef8b43651b6f1f9b6c2f163288f84316af8f145e812dbd3e7259a1a&w=2000)](https://ksp399.io)
 <h1 align="center">Hi 👋, I'm KUSHAGRA GUPTA</h1>
 <h3 align="center">SOFTWARE ENGINEER</h3>
 
